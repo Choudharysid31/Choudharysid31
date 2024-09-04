@@ -1,5 +1,5 @@
 # 💫 About Me:
--  Hi, I’m @Choudharysid31<br>-  I’m interested in Pyhton, Machine Learning & Data Science <br>-  I’m currently learning Deep Learning and Data Science<br>-  I’m looking to collaborate on different projects and internships.<br>-  You can reach me at sidrocks3112@gmail.com
+-  Hi, I’m @Choudharysid31<br>-  I’m interested in Pyhton, Machine Learning, Data Science and Data Structures & Algorithms<br>-  I’m currently learning Deep Learning and Data Science<br>-  I’m looking to collaborate on different projects and internships.<br>-  You can reach me at sidrocks3112@gmail.com
 
 
 ## 🌐 Socials:
