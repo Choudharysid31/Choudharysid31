@@ -1,5 +1,5 @@
 # About Me:
--  Hi, I’m @Choudharysid31<br>-  I’m interested in AI, Python, Cloud, OOPs,FastAPI, Flask, LLMs, Machine Learning, Data Science and Data Structures & Algorithms<br>-  I’m currently learning RAG, Agentic AI and MCP. <br>-  I’m looking to collaborate on different projects and roles.<br>-  You can reach me at sidrocks3112@gmail.com
+-  Hi, I’m @Choudharysid31<br>-  I’m interested in AI, Python, Cloud, OOPs, FastAPI, Flask, LLMs, Machine Learning, Data Science and Data Structures & Algorithms<br>-  I’m currently learning RAG, Agentic AI and MCP. <br>-  I’m looking to collaborate on different projects and roles.<br>-  You can reach me at sidrocks3112@gmail.com
 
 
 ## 🌐 Socials:
